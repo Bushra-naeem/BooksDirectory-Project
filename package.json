@@ -1,0 +1,14 @@
+{
+  "name": "books-directory",
+  "version": "1.0.0",
+  "description": "This is a simple project of books directory.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bushra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
